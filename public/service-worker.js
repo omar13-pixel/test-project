@@ -3,6 +3,7 @@ const urlsToCache = [
   '/',
   '/index.html',
   '/manifest.json',
+  '/school.png', // Added to cache the app icon
   // أضف هنا الملفات المهمة الأخرى (CSS, JS, صور...)
 ];
 
