@@ -8,13 +8,13 @@
   "theme_color": "#DC2626",
   "icons": [
     {
-      "src": "/public/school.png",
+  "src": "/school.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/public/school.png",
+  "src": "/school.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
