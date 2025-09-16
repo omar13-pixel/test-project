@@ -23,3 +23,19 @@ dist-ssr
 *.sln
 *.sw?
 .env
+
+# OS files
+Thumbs.db
+
+# Env files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Electron build
+build/
+
+# Misc
+*.tmp
+
