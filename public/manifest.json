@@ -25,12 +25,5 @@
       "type": "image/png",
       "purpose": "any maskable"
     }
-  ],
-  "base": "/test-project/",
-  "link": [
-    {
-      "rel": "manifest",
-      "href": "/test-project/manifest.json"
-    }
   ]
 }
