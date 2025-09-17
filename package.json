@@ -11,7 +11,8 @@
     "electron:dev": "cross-env VITE_DEV_SERVER_URL=http://localhost:5173 electron main.js",
     "electron:start": "taskkill /F /IM ElbrodaApp.exe >nul 2>&1 & npm run build && electron main.js",
     "electron:build": "npm run build && electron main.js",
-    "dist": "npm run build && electron-builder --win --x64"
+    "dist": "npm run build && electron-builder --win --x64",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "better-sqlite3": "^12.2.0",
@@ -57,6 +58,7 @@
     "eslint": "^9.9.1",
     "eslint-plugin-react-hooks": "^5.1.0-rc.0",
     "eslint-plugin-react-refresh": "^0.4.11",
+    "gh-pages": "^6.3.0",
     "globals": "^15.9.0",
     "postcss": "^8.4.35",
     "tailwindcss": "^3.4.1",

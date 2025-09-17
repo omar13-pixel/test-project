@@ -16,3 +16,5 @@ export default defineConfig({
     },
   },
 });
+
+// "deploy": "gh-pages -d dist"
