@@ -1,0 +1,45 @@
+GODFATHER STYLE — Location de costumes
+Pack logo / identité visuelle
+=====================================================
+
+4 logos, chacun dans son dossier :
+
+  logo-horizontal/   Logo principal : silhouette + GS + nom   (enseigne, bannière, carte de visite)
+  logo-vertical/     Silhouette au-dessus du nom              (affiche, sac, étiquette)
+  embleme/           Silhouette dans un cercle                (photo de profil, tampon, sticker)
+  logo-GS/           Le logo GS seul, redessiné en vectoriel
+
+Dans chaque dossier :
+
+  SVG/   Vectoriel, agrandissable sans perte (Illustrator, Inkscape, Canva, web)
+  PDF/   Vectoriel pour l'imprimeur
+  PNG/   Fond transparent, 3000-4000 px
+  JPG/   Avec fond (noir ou blanc), 3000-4000 px
+  DXF/   Contours fermés pour découpe laser / CNC / plotter vinyle / enseigne
+         (1 unité = 1 mm, largeur totale 300 mm, à redimensionner librement ;
+          calques : OR_GOLD = formes dorées, ROUGE_RED = la rose)
+
+Versions de couleur (suffixe du nom de fichier) :
+
+  or-fond-noir      or dégradé sur fond noir   -> version principale
+  or-degrade        or dégradé, fond transparent
+  or-uni            or uni #C9A45C, fond transparent (impression 1 couleur, dorure)
+  or-uni-fond-noir  or uni sur fond noir
+  noir              noir, fond transparent      -> pour fonds clairs
+  noir-fond-blanc   noir sur fond blanc
+  blanc             blanc, fond transparent     -> pour photos / fonds foncés
+
+Couleurs :  Or #C9A45C   Noir #0B0B0B   Rouge #C8102E   Ivoire #FFFEF0
+Polices :   Cinzel (nom)  +  Montserrat Medium (signature) — gratuites, Google Fonts.
+            Dans les fichiers, tout le texte est déjà converti en tracés : aucune police à installer.
+
+Note impression : les PDF/SVG sont en RGB. Pour une impression offset, demandez à l'imprimeur
+la conversion CMJN (valeurs dans charte-graphique.pdf) ou une dorure à chaud pour l'or.
+
+-----------------------------------------------------
+بالعربية :
+  logo-horizontal = اللوغو الرئيسي (السيلويت + GS + الاسم)
+  logo-vertical   = السيلويت فوق الاسم
+  embleme         = السيلويت داخل دائرة (صورة بروفايل، طابع، ستيكر)
+  logo-GS         = لوغو GS وحدو
+  SVG / PDF للطباعة (vector)، PNG بخلفية شفافة، JPG بخلفية، DXF للقص بالليزر / CNC / البلوتر.
